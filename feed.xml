@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xsl:stylesheet [<!ENTITY mdash "&#x2014;">]>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">Ike.io</title>
+  <link type="application/atom+xml" href="http://ike.io/feed.xml" rel="self"/>
+  <link type="text/html" href="http://ike.io" rel="alternate"/>
+  <updated>2014-07-29T13:46:41-07:00</updated>
+  <id>http://ike.io/all_feed</id>
+  <author>
+    <name>Isaac Lewis</name>
+  </author>
+
+  
+  <entry>
+    <title>Thanksgiving</title>
+    <link href="http://ike.io/2013/thanksgiving/"/>
+    <updated>2013-11-27T00:00:00-08:00</updated>
+    <id>http://ike.io/2013/thanksgiving</id>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;...And we pray, not for new&lt;br&gt;
+earth or heaven, but to be quiet&lt;br&gt;
+in heart, and in eye clear.&lt;br&gt;
+What we need is here.&amp;quot;  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;– Wendell Berry&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We&amp;#39;re &lt;a href=&quot;https://vimeo.com/52639927&quot;&gt;really lucky bastards&lt;/a&gt;. Here in the comfy bubble of the tech world, there&amp;#39;s practically no glass ceiling we won&amp;#39;t eventually smash through. I&amp;#39;ve been blessed with a &lt;a href=&quot;http://andyet.com&quot;&gt;company I can believe in&lt;/a&gt;, amazing teammates, good health, and a wonderful place to live surrounded by pristine nature. I live a life filled with abundance, for which I am extremely grateful. If you ever catch me complaining, you have my permission to slap some sense into me.&lt;/p&gt;
+
+&lt;p&gt;I firmly believe that we cannot afford to become complacent in our position, but to use it to do the greatest good we can in the short time we have. As such, I am setting a personal bar for myself this Thanksgiving by giving $200 to a different cause each month. Here&amp;#39;s the list I&amp;#39;ve got so far (If you know of a cause that you think should be on my list, please get &lt;a href=&quot;/&quot;&gt;in touch with me&lt;/a&gt;):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nov: &lt;a href=&quot;http://www.charitywater.org/&quot;&gt;charity: water&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dec: &lt;a href=&quot;http://donate.worldvision.org/OA_HTML/xxwv2MicroLoan.jsp?go=micro&amp;amp;&quot;&gt;World Vision Micro Loan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jan: &lt;a href=&quot;http://www.letsrespond.com/&quot;&gt;Let&amp;#39;s Respond&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Feb: &lt;a href=&quot;http://www.amazima.org/&quot;&gt;Amazima&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mar: &lt;a href=&quot;http://www.doctorswithoutborders.org/&quot;&gt;Doctors Without Borders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Apr: &lt;a href=&quot;http://www.notforsalecampaign.org/&quot;&gt;Not For Sale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May:&lt;/li&gt;
+&lt;li&gt;Jun:&lt;/li&gt;
+&lt;li&gt;Jul:&lt;/li&gt;
+&lt;li&gt;Aug:&lt;/li&gt;
+&lt;li&gt;Sep:&lt;/li&gt;
+&lt;li&gt;Oct:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;#39;d really like you to join me in this endeavor. If you do, please let me know, and I&amp;#39;ll link you from this post.&lt;/p&gt;
+
+&lt;p&gt;Together, we can use our privileged position to do a little good in the world.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The indieweb</title>
+    <link href="http://ike.io/2013/the-indieweb/"/>
+    <updated>2013-10-23T00:00:00-07:00</updated>
+    <id>http://ike.io/2013/the-indieweb</id>
+    <content type="html">&lt;p&gt;So, here it goes.&lt;/p&gt;
+
+&lt;p&gt;A couple things happened at &lt;a href=&quot;http://realtimeconf.com&quot;&gt;Realtime Conf&lt;/a&gt; that sparked my move to the #indieweb. One of them was a talk given by Amber Case called &lt;a href=&quot;http://caseorganic.com/notes/2013/10/22/2/realtimeconf-indieweb-ownyourdata&quot;&gt;&amp;quot;The Open Web and the Opportunity of Now&amp;quot;&lt;/a&gt;. You need to simply sit down and watch it, but the tl;dr goes like &amp;quot;get out there, use what&amp;#39;s already been written, own your data, and build cool things&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;As soon as I heard that talk, I knew I needed to sit down and finally get my online presence wrangled together, starting with my personal blog. My persona online has been growing and becoming more fragmented very rapidly, which, despite the convenience of all those accounts and services, still left me feeling unsettled and uneasy. So far I&amp;#39;ve:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;moved this blog off of tumblr&lt;/li&gt;
+&lt;li&gt;quit facebook&lt;/li&gt;
+&lt;li&gt;downloaded tons of data from many of my social sites, and&lt;/li&gt;
+&lt;li&gt;figured out a plan for finally lassoing my persona into one place, &lt;a href=&quot;http://ike.io&quot;&gt;ike.io&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The second thing that started this &amp;#39;homesteading&amp;#39; itch (have you watched the talk yet?), was more of a nagging zeitgeist feeling. I haven&amp;#39;t nailed it down, but I have this notion that we&amp;#39;re embarking on something big right now. I think we&amp;#39;d better buckle up.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Long Overdue</title>
+    <link href="http://ike.io/2013/long-overdue/"/>
+    <updated>2013-04-25T00:00:00-07:00</updated>
+    <id>http://ike.io/2013/long-overdue</id>
+    <content type="html">&lt;p&gt;After putting it off for a long, long time, I have finally bitten the bullet and will start my obligatory personal tech blog.&lt;/p&gt;
+
+&lt;p&gt;The signal/noise ratio is impressively high out there on the interwebs, so I hope to hold a laser focus on valuable, personal editorial content here.&lt;/p&gt;
+
+&lt;p&gt;Life’s too short for bad blogs.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
